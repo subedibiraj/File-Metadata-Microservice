@@ -1,0 +1,3 @@
+# File Metadata Microservice
+
+The File Metadata Microservice project is a simple Node.js and Express application that handles file uploads and returns metadata about the uploaded files, such as name, type, and size. Using the multer middleware for file handling, it sets up a POST endpoint where users can upload a file and receive a JSON response with the file's metadata. This project demonstrates basic backend skills including handling file uploads, extracting metadata, and building a RESTful API.
